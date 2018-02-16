@@ -1,0 +1,8 @@
+<DOCTYPE!>
+<HTML>
+  div {
+    background-color: blue;
+    opacity: 0.5;
+}
+</HTML>
+
